@@ -1,6 +1,9 @@
 # Navigo
 Navigo is android application design with aim of enhancing travel experience of the user by integrating features like real-time data, emergency contacts, local lingo, AI voice assistant, personalized recommendation.
 Main aim of the application is all under one app which makes time saving for the traveller it offers seamless platform for the traveller’s needs.
+with the help of API of google map api, places api, uber api.
+API integration
+Kotlin 
 ![image](https://github.com/user-attachments/assets/68f77992-b5c1-42e3-b2fd-20bd6ff5eeda)
 ![image](https://github.com/user-attachments/assets/e635a78d-c0cf-4910-99ca-4e512e093c60)
 ![image](https://github.com/user-attachments/assets/5c57a2b5-235b-43dd-a276-a9495e84aa68)
